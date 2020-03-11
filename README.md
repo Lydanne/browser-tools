@@ -16,6 +16,10 @@ browser litte tools， include `Tampermonkey` plugin and `chrome` plugin and oth
 
 > version 1.0.0
 
+FastGitCode is a TanpermonKey plugin that allows you to quickly view GitHub source code in a vscode-like manner.
+
+>  FastGitCode是一个可以快速的使用类似于vscode方式查看GitHub源码的TanpermonKey插件。
+
 #### use
 
 > 使用方法
