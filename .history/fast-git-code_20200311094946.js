@@ -1,0 +1,1 @@
+javascript: (function (src) { var srciptEl = document.createElement('script'); srciptEl.setAttribute("src", srciptEl); document.body.appendChild(srciptEl); })()
