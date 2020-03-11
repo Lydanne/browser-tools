@@ -1,6 +1,7 @@
 (function () {
   window.fgc.version = '1.0.0';
   window.fgc.updateDate = '20200311';
+
   const fileNav = document.getElementsByClassName('file-navigation')[0];
   const btn = document.createElement("span");
   btn.className = "btn btn-sm btn-blue";
