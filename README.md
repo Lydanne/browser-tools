@@ -1,3 +1,5 @@
+> 该项目已经移植到到mini-tools了
+
 # browser-tools
 
 [GitHub](https://github.com/holleworldabc/browser-tools)
